@@ -9,6 +9,7 @@ spring:
              search-paths: 
               - '*ConfigrationFiles'
 
+
 # Use file system backend for configurations
 #spring:
 #   profiles:
